@@ -1,6 +1,6 @@
 # AI assistant with Rasa and Rasa X
 
-This repository contains the files needed to create an AI assistant with open source Rasa tools. 
+This repository contains the files needed to create an AI assistant with open source Rasa tools. You can find the slides I used during the workshop in a file called `BotsBrasil_Workshop.pdf`. This repositiry contains the instructions for the exercise we completed during the workshop - check out the file called `exercise.md`.  If you have any questions, feel free to contact me at juste@rasa.com
 
 ## Requirements
 
